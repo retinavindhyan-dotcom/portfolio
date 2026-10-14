@@ -1,22 +1,24 @@
 # Shubham Singh Portfolio
 
-A modern, creative portfolio website for a graphic designer.
+A modern, premium single-page portfolio for a graphic designer.
 
-## Features
-- Premium single-page layout
-- Brand-focused hero section
-- Services and selected work sections
-- Responsive design for mobile and desktop
-- Contact section with phone number and email
+## Included
+- Professional hero section
+- About and services sections
+- Featured project cards
+- Process workflow
+- Contact section with social placeholders
+- Responsive layout for both desktop and mobile
 
 ## Files
-- `index.html` — portfolio page structure
-- `styles.css` — design and responsive styling
-
-## Customize
-- Replace the email in `index.html`
-- Update project titles and descriptions
-- Add real portfolio images if needed
+- `index.html` — portfolio content and structure
+- `styles.css` — design and responsiveness
 
 ## View locally
-Open `index.html` in a browser.
+Open `index.html` in any browser.
+
+## Next upgrade options
+- Replace placeholder email and socials with real links
+- Add a downloadable CV button
+- Add real project images and portfolio shots
+- Connect a contact form or message form
