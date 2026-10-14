@@ -1,24 +1,22 @@
-# Shubham Singh — Portfolio
+# Shubham Singh Portfolio
 
-This repository contains a simple starter portfolio website for Shubham Singh, a graphic designer.
+A modern, creative portfolio website for a graphic designer.
 
-How to use
+## Features
+- Premium single-page layout
+- Brand-focused hero section
+- Services and selected work sections
+- Responsive design for mobile and desktop
+- Contact section with phone number and email
 
-1. Clone the repository:
+## Files
+- `index.html` — portfolio page structure
+- `styles.css` — design and responsive styling
 
-   git clone https://github.com/retinavindhyan-dotcom/portfolio.git
+## Customize
+- Replace the email in `index.html`
+- Update project titles and descriptions
+- Add real portfolio images if needed
 
-2. Open index.html in a browser to view the site locally.
-
-3. Customize content:
-   - Edit `index.html` to update copy, projects, and contact details.
-   - Replace images in the `assets/` folder with your project images.
-   - Edit `styles.css` to change colors, fonts, and layout.
-
-Publishing
-
-- To publish with GitHub Pages, go to the repository Settings → Pages and select the `main` branch (root) as the source.
-
-Notes
-
-- I included the phone number you provided in the contact section. If you'd like an email, social links, or different styling (dark/minimal/colorful), tell me and I will update the site.
+## View locally
+Open `index.html` in a browser.
